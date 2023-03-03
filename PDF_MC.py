@@ -10,7 +10,7 @@ import shutil
 import os
 import fnmatch
 
-working_directory = '/Users/dimitrygrebenyuk/Yandex.Disk.localized/Working/PDF/Refinements/ThO2/fits/dataset_03/th14plus3drop2'
+working_directory = '/Users/dimitrygrebenyuk/Yandex.Disk.localized/Working/PDF/Refinements/ThO2/fits/dataset_03/th14plus3drop2/cont'
 dataFile = 'Th22_03_spot1_0001_0000_summed_bsub_tmean_gs2.grf'
 basename = 'th14plus3drop2'
 
